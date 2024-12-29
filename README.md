@@ -47,4 +47,3 @@ Beni takip ettiğiniz için teşekkür ederim. Yeni projeler için sık sık uğ
 
 ![STM32 Chip](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/STM32_microcontroller.jpg/320px-STM32_microcontroller.jpg)
 
-> **Not:** Görsel, STM32 mikrodenetleyicisini temsil etmektedir.
