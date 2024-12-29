@@ -25,10 +25,10 @@ Merhaba! Ben Mehmet Demirbaş, Kütahya Dumlupınar Üniversitesi 4. sınıf ö�
 
 ## 📂 Öne Çıkan Projeler
 
-### [📡 STM32 Tabanlı Gömülü Sistem Projesi](https://github.com/mehmetdemirbas1/STM32-Project)
+### [📡 STM32 Tabanlı Gömülü Sistem Projesi](https://github.com/mehmetdemirbas1/STM32-F767ZI)
 STM32CubeIDE kullanarak geliştirilmiş bir gömülü sistem örneği.
 
-### [⏱️ Sensör Entegrasyon Projesi](https://github.com/mehmetdemirbas1/Sensor-Integration)
+### [⏱️ Sensör Entegrasyon Projesi](https://github.com/mehmetdemirbas1/MPU6050)
 C dili kullanılarak farklı sensörlerin STM32'ye entegrasyonu üzerine bir çalışma.
 
 ---
@@ -44,6 +44,3 @@ C dili kullanılarak farklı sensörlerin STM32'ye entegrasyonu üzerine bir ça
 Beni takip ettiğiniz için teşekkür ederim. Yeni projeler için sık sık uğramayı unutmayın! 🎉
 
 ---
-
-![STM32 Chip](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/STM32_microcontroller.jpg/320px-STM32_microcontroller.jpg)
-
