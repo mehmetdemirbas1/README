@@ -6,7 +6,6 @@ Merhaba! Ben Mehmet Demirbaş, Kütahya Dumlupınar Üniversitesi 4. sınıf ö�
 
 - 🔭 Şu anda üzerinde çalışıyorum: **STM32 tabanlı gömülü sistem projeleri**
 - 🌱 Öğreniyorum: **STM32CubeIDE, donanım-software entegrasyonu**
-- 💬 Bana sorabilirsiniz: **STM32, C dili ve gömülü yazılım geliştirme ile ilgili her şeyi!**
 - 📫 Bana ulaşın: [mehmetdemirbas1@gmail.com](mailto:mehmetdemirbas1@gmail.com)
 
 ---
